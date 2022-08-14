@@ -1,0 +1,7 @@
+﻿  ConsoleApplication3.cpp
+E:\Binura\SLIIT\1st year 1st sem\IP\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(30,30): warning C4474: 'scanf' : too many arguments passed for format string
+E:\Binura\SLIIT\1st year 1st sem\IP\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(30,30): message : placeholders and their parameters expect 1 variadic arguments, but 5 were provided
+E:\Binura\SLIIT\1st year 1st sem\IP\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(72,9): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'float *'
+E:\Binura\SLIIT\1st year 1st sem\IP\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(18,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Binura\SLIIT\1st year 1st sem\IP\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(30,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Binura\SLIIT\1st year 1st sem\IP\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(72,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
